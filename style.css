@@ -1,0 +1,37 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url('rubik.ttf');
+}
+
+body {
+  background-color: #333;
+  color: #fff;
+  font-family: Rubik;
+  width: 100%;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+  padding: 5px
+}
+
+main {
+  margin: 2%;
+
+}
+
+
+a, a:visited {
+	color: red;
+}
+
+a:hover {
+	color: #fff;
+}
